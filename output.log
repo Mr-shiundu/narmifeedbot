@@ -1,0 +1,5 @@
+nohup: ignoring input
+Traceback (most recent call last):
+  File "/home/imran/Code/Bot/NarmiBot.py", line 1, in <module>
+    from telegram import Update
+ModuleNotFoundError: No module named 'telegram'
